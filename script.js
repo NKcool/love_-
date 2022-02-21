@@ -1,7 +1,7 @@
 alert("Hello friend  love_calculator welcomes you press ok to continue !")
 
 var person_1 = prompt("what is your name dear ! ");
-var parson_2 = prompt("what is your crush name or anyone you want to be you humpy-dumpy .")
+var parson_2 = prompt("what is your crush name or anyone you want to be your humpy-dumpy .")
 
 var schore = Math.random();
 
