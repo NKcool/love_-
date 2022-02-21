@@ -7,7 +7,7 @@ var schore = Math.random();
 
 schore = Math.floor((schore * 100))+1;
 
-console.log(person_1+" Your love schore with "+parson_2 +" is ♥♥♥ "+ schore );
+console.log(person_1+" Your love schore with "+parson_2 +" is ♥♥♥ "+ schore+"%" );
 
 alert(person_1+" Your love schore with "+parson_2 +" is "+ schore );
 alert ("Note ! This schore calculation based on the position of planets. so if you try again the schore will be different ! :)")
